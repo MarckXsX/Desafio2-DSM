@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "528049394247",
+    "firebase_url": "https://desafio2-e1dd2-default-rtdb.firebaseio.com",
+    "project_id": "desafio2-e1dd2",
+    "storage_bucket": "desafio2-e1dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528049394247:android:77863663a7f28a8b225762",
+        "android_client_info": {
+          "package_name": "com.example.desafio2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL5r17h89vQDiRdO0ynMUqkg8bQnj24iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
